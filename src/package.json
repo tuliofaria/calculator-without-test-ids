@@ -1,0 +1,14 @@
+{
+  "name": "calculator-app-without-test-id",
+  "version": "1.0.0",
+  "description": "https://github.com/ahfarmer/calculator",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/n19y12zj",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "chai": "4.1.2",
+    "big.js": "5.0.3"
+  }
+}
